@@ -8,19 +8,19 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : simple site
+title : Blog
 author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
+  name : Wei Wang
+  email : wangw101ken@gmail.com
+  github : weiwangfinance
   feedburner : nil
 
 # NOTE: Replacing this next line with your own URL
-production_url : https://kbroman.github.io/simple_site
+production_url : https://weiwangfinance.github.io/blog
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
-markdown: kramdown
+markdown: wei_wang
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
