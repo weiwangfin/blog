@@ -16,7 +16,7 @@ Writing in PDF means later on I can have version control and build the revision 
 Let's see whether I can focus on writing on something consistently.
 
 
-
+[Design questions efficiently]
 
 #[Overview](pages/overview.html)
 #[Making an independent website](pages/independent_site.html)
@@ -25,3 +25,5 @@ Let's see whether I can focus on writing on something consistently.
 #[Making a jekyll-free site](pages/nojekyll.html)
 #[Testing your site locally](pages/local_test.html)
 #[Resources](pages/resources.html)
+
+[This page](https://github.com/academicpages/academicpages.github.io) lists the step of forking and editting a template to make it your own page. 
