@@ -16,8 +16,9 @@ Writing in PDF means later on I can have version control and build the revision 
 Let's see whether I can focus on writing on something consistently.
 
 
-*Teaching*
-[Design questions efficiently](assets/themes/twitter/exam_design.pdf)
+* Feb 3, 2023: [Design questions efficiently](assets/themes/twitter/exam_design.pdf)
+  * This short essay is to discuss how to design exams efficiently. The main idea is to build on previous question statements and collect potential confusion to polish question statements.
+
 
 
 [This page](https://github.com/academicpages/academicpages.github.io) lists the step of forking and editting a template to make it your own page. 
