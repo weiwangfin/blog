@@ -15,7 +15,7 @@ Writing in PDF means later on I can have version control and build the revision 
 
 Let's see whether I can focus on writing on something consistently.
 
-* [Develop a Long-term Career Plan](assets/themes/twitter/conduct_research.pdf) (Feb 5, 2023)
+* [Conduct Research in a Hard Way](assets/themes/twitter/conduct_research.pdf) (Feb 5, 2023)
   * This essay summarizes my bad habits when doing research. I keep reminding myself of these traps to avoid inefficient time use. 
 * [Develop a Long-term Career Plan](assets/themes/twitter/faculty_development.pdf) (Feb 4, 2023)
   * This short essay summarizes what I learned from weekly newsletters from National Faculty Development Center as well as the Prepare Future Faculty Conference supported by IU GradSchoo.
