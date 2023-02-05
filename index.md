@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Kenneth's Blog
-tagline: Collect daily ideas
-description: People should have a habit of writing ideas down. 
+title: simple site
+tagline: Easy websites with GitHub Pages
+description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
 # Grab Ideas: Write them, Publish them, Be your own audience
