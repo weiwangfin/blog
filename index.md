@@ -7,13 +7,12 @@ description: People should have a habit of writing ideas down.
 
 # Grab Ideas: Write them, Publish them, Be your own audience
 
-I often have brilliant ideas and summarize them in my scratch book. But later on they were trashed and those great ideas are lost. The BEST way to avoid missing brilliant random ideas is to write it in a pdf file on overleaf.com and pu  blish it on the personal blog.
+I often have ideas and summarize them in my scratch book. But later on they were trashed and lost. The BEST way to avoid missing good ideas is to write it in a pdf file on overleaf.com and publish it on the personal blog.
 
-Publishing means that the materials are for the public. The pressure from public scruitiny forces concise and succinct writing. All the questions and arguments are well-clarified to avoid the confusion not only from other audience but also the author himself. Review and revision then become efficient.
+Publishing means that the materials are for public scruitiny. It forces concise and succinct writing. All the questions and arguments are well-clarified to avoid the confusion. This will benefit not only other audience but also the author himself. *Human has very bad memory.*
 
-Writing in PDF means later on I can have version control and build the revision on the previous work. It is a natural process of writing polishing. 
+Writing in latex provides another advantage: I can have version control and build on my previous work. It is a natural process of writing polishing. 
 
-Let's see whether I can focus on writing on something consistently.
 
 * [Conduct Research in a Hard Way](assets/themes/twitter/conduct_research.pdf) (Feb 5, 2023)
   * This essay summarizes my bad habits when doing research. I keep reminding myself of these traps to avoid inefficient time use. 
