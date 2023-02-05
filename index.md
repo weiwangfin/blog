@@ -1,72 +1,26 @@
 ---
 layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+title: Kenneth's Blog
+tagline: Collect daily ideas
+description: People should have a habit of writing ideas down. 
 ---
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using
-[Markdown](https://daringfireball.net/projects/markdown/) and
-[git](https://git-scm.com).
+# Grab Ideas: Write them, Publish them, Be your own audience
 
-For me, the painful aspects of making a website are
+I often have ideas and summarize them in my scratch book. But later on they were trashed and lost. The BEST way to avoid missing good ideas is to write it in a pdf file on overleaf.com and publish it on the personal blog.
 
-- Working with html and css
-- Finding a hosting site
-- Transferring stuff to the hosting site
+Publishing means that the materials are for public scruitiny. It forces concise and succinct writing. All the questions and arguments are well-clarified to avoid the confusion. This will benefit not only other audience but also the author himself. *Human has very bad memory.*
 
-With [GitHub Pages](https://pages.github.com), you just write things in
-[Markdown](https://daringfireball.net/projects/markdown/),
-[GitHub](https://github.com) hosts the site for you, and you just push
-material to your GitHub repository with `git add`, `git commit`, and
-`git push`.
+Writing in latex provides another advantage: I can have version control and build on my previous work. It is a natural process of writing polishing. 
 
-If you love [git](https://git-scm.com/) and
-[GitHub](https://github.com), you'll love
-[GitHub Pages](https://pages.github.com), too.
 
-The sites use [Jekyll](https://jekyllrb.com/), a
-[ruby](https://www.ruby-lang.org/en/) [gem](https://rubygems.org/), to
-convert Markdown files to html, and this part is done
-automatically when you push the materials to the `gh-pages` branch
-of a GitHub repository.
+* [Conduct Research in a Hard Way](assets/themes/twitter/conduct_research.pdf) (Feb 5, 2023)
+  * This essay summarizes my bad habits when doing research. I keep reminding myself of these traps to avoid inefficient time use. 
+* [Develop a Long-term Career Plan](assets/themes/twitter/faculty_development.pdf) (Feb 4, 2023)
+  * This short essay summarizes what I learned from weekly newsletters from National Faculty Development Center as well as the Prepare Future Faculty Conference supported by IU GradSchoo.
+* [Design questions efficiently](assets/themes/twitter/exam_design.pdf) (Feb 3, 2023)
+  * This short essay is to discuss how to design exams efficiently. The main idea is to build on previous question statements and collect potential confusion to polish question statements.
 
-The [GitHub](https://pages.github.com) and
-[Jekyll](https://jekyllrb.com) documentation is great, but I thought it
-would be useful to have a minimal tutorial, for those who just want to
-get going immediately with a simple site. To some readers, what GitHub
-has might be simpler and more direct.  But if you just want to create
-a site like the one you're looking at now, read on.
 
-Start by reading the [Overview page](pages/overview.html), which
-explains the basic structure of these sites. Then read
-[how to make an independent website](pages/independent_site.html). Then
-read any of the other things, such as
-[how to test your site locally](pages/local_test.html).
 
-- [Overview](pages/overview.html)
-- [Making an independent website](pages/independent_site.html)
-- [Making a personal site](pages/user_site.html)
-- [Making a site for a project](pages/project_site.html)
-- [Making a jekyll-free site](pages/nojekyll.html)
-- [Testing your site locally](pages/local_test.html)
-- [Resources](pages/resources.html)
-
-If anything here is confusing (or _wrong_!), or if I've missed
-important details, please
-[submit an issue](https://github.com/kbroman/simple_site/issues), or (even
-better) fork [the GitHub repository for this website](https://github.com/kbroman/simple_site),
-make modifications, and submit a pull request.
-
----
-
-The source for this minimal tutorial is [on github](https://github.com/kbroman/simple_site).
-
-Also see my [tutorials](https://kbroman.org/tutorials) on
-[git/github](https://kbroman.org/github_tutorial),
-[GNU make](https://kbroman.org/minimal_make),
-[knitr](https://kbroman.org/knitr_knutshell),
-[R packages](https://kbroman.org/pkg_primer),
-[data organization](https://kbroman.org/dataorg),
-and [reproducible research](https://kbroman.org/steps2rr).
+[This page](https://github.com/academicpages/academicpages.github.io) lists the step of forking and editting a template to make it your own page. 
