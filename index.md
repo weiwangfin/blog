@@ -13,6 +13,8 @@ Publishing means that the materials are for public scruitiny. It forces concise 
 
 Writing in latex provides another advantage: I can have version control and build on my previous work. It is a natural process of writing polishing. 
 
+* [To be produtive is to be healthy](assets/themes/twitter/addressing_questioning_seminar.pdf) (Feb 10, 2023)
+  * This note summarizes the dietary combination for each meal that I have taken notes of from different sources.
 * [Address Seminar Questions](assets/themes/twitter/addressing_questioning_seminar.pdf) (Feb 9, 2023)
   * This short note is to summarize some cases where I didn't address the question on retrospective.
 * [Predict Return](assets/themes/twitter/topic_predictability.pdf) (Feb 7, 2023)
