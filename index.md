@@ -20,6 +20,7 @@ Writing in latex provides another advantage: I can have version control and buil
   * This short note is to summarize some cases where I didn't address the question on retrospective.
 * [Predict Return](assets/themes/twitter/topic_predictability.pdf) (Feb 7, 2023)
   * This short essay summarizes how to validate a return predictor. 
+  * [Updated Version (Feb 17, 2023)](assets/themes/twitter/topic_predictability_02172023.pdf) 
 * [Conduct Research in a Hard Way](assets/themes/twitter/conduct_research.pdf) (Feb 5, 2023)
   * This essay summarizes my bad habits when doing research. I keep reminding myself of these traps to avoid inefficient time use. 
 * [Develop a Long-term Career Plan](assets/themes/twitter/faculty_development.pdf) (Feb 4, 2023)
