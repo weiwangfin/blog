@@ -13,6 +13,8 @@ Publishing means that the materials are for public scruitiny. It forces concise 
 
 Writing in latex provides another advantage: I can have version control and build on my previous work. It is a natural process of writing polishing. 
 
+* [Perpetual Youth OLG Model](assets/themes/twitter/OLG_model.pdf) (Feb 10, 2023)
+  * This note summarizes the basic OLG framework in asset pricing, which is what I collected from Christian's boarding writing.
 * [To be produtive is to be healthy](assets/themes/twitter/Health_dietary.pdf) (Feb 10, 2023)
   * This note summarizes the dietary combination for each meal that I have taken notes of from different sources.
   * [Updated Version (Feb 11, 2023)](assets/themes/twitter/Health_dietary_20230211.pdf) 
