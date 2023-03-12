@@ -13,6 +13,8 @@ Publishing means that the materials are for public scruitiny. It forces concise 
 
 Writing in latex provides another advantage: I can have version control and build on my previous work. It is a natural process of writing polishing. 
 
+* [TensorFlow for Data Preprocessing](assets/themes/twitter/tensorflow_tutorial.pdf)  (March 11, 2023)
+  * TThis note summarizes how to use Tensorflow to preprocess data for training.
 * Perpetual Youth OLG Model (Feb 21, 2023)
   * This note summarizes the basic OLG framework in asset pricing, which is what I collected from Christian's boarding writing.
 * [To be produtive is to be healthy](assets/themes/twitter/Health_dietary.pdf) (Feb 10, 2023)
