@@ -39,3 +39,4 @@ Writing in latex provides another advantage: I can have version control and buil
 
 
 [This page](https://github.com/academicpages/academicpages.github.io) lists the step of forking and editting a template to make it your own page. 
+[Could I practice my vocabulary amount using this page?](pages/local_test.md)
