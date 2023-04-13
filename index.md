@@ -20,7 +20,8 @@ Writing in latex provides another advantage: I can have version control and buil
 * [AI Application in Finance](assets/themes/twitter/AI_application_finance.pdf)  (April 1, 2023)
   * This note summarizes the recent advance in the interplay between AI and finance. 
 * [TensorFlow for Data Preprocessing](assets/themes/twitter/tensorflow_tutorial.pdf)  (March 11, 2023)
-  * TThis note summarizes how to use Tensorflow to preprocess data for training.
+  * This note summarizes how to use Tensorflow to preprocess data for training.
+  * This note will be merged into [AI Application in Finance](assets/themes/twitter/AI_application_finance.pdf) (April 12, 2023)
 * Perpetual Youth OLG Model (Feb 21, 2023)
   * This note summarizes the basic OLG framework in asset pricing, which is what I collected from Christian's boarding writing.
 * [To be produtive is to be healthy](assets/themes/twitter/Health_dietary.pdf) (Feb 10, 2023)
