@@ -13,6 +13,8 @@ Publishing means that the materials are for public scruitiny. It forces concise 
 
 Writing in latex provides another advantage: I can have version control and build on my previous work. It is a natural process of writing polishing. 
 
+* Quantum Computing in Finance  (April 19, 2023)
+  * This note summarizes the resource for quantum computing and literature review. 
 * [English Pronunciation Correction](assets/themes/twitter/pronunciation_correction.pdf)  (April 11, 2023)
   * This note is my collection of English words that needs special attention, in terms of meaning and especially pronunciation. 
 * [Check Before Submission](https://blogs.worldbank.org/impactevaluations/crowd-sourced-checklist-top-10-little-things-drive-us-crazy-regression-output)  (April 5, 2023)
